@@ -85,6 +85,7 @@ permalink: /blog/:year/:title/
 # Pagination
 pagination:
   enabled: true
+  per_page: 5
 
 # Comments
 disqus_shortname: visionX # put your disqus shortname
